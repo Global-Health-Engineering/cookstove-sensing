@@ -8,7 +8,7 @@ authors:
   - family-names: Timon
     given-names: Mettler
     email: timettler@ethz.ch
-    ordid: 
+    ordid: https://orcid.org/0000-0002-6187-2617
   - family-names: Tkaczuk
     given-names: Jakub
     email: jtkaczuk@ethz.ch
@@ -21,5 +21,5 @@ contact:
   - family-names: Timon
     given-names: Mettler
     email: timettler@ethz.ch
-    ordid: 
+    ordid: https://orcid.org/0000-0002-6187-2617
 version: 0.0.1
