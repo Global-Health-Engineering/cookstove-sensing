@@ -3,6 +3,7 @@ message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Sensing improved cookstoves to estimate CO2 emission reduction"
 date-released: "2025-01-29"
+doi: 10.5281/zenodo.15028262
 type: software
 authors:
   - family-names: Timon

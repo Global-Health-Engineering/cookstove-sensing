@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15028262.svg)](https://doi.org/10.5281/zenodo.15028262)
 <!-- badges: end -->
 
 <h1> Sensing improved cookstoves to estimate CO2 emission reduction </h1>
