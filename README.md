@@ -15,10 +15,14 @@
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-2095-9724
 </a> *supervisor*  
 
+<br>
 <p align="middle"> 
 <img src="img/ETH_GHE_logo_negative.svg" width=600>
 <br><br>
-This repository compliments the openly-accessible bachelor's thesis, available on the<br \>  
+This work is certified by the Open Source Hardware Association.<br \>
+<a href="https://certification.oshwa.org/ch000024.html"><img src="img/certification-mark-CH000024-wide.svg" width=300></a>
+<br><br>
+It compliments the openly-accessible master’s thesis, available on the<br \>  
 <a href="">ETH Research Collection</a>.
 </p>
 
